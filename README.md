@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/tarikkamat" target="blank"><img src="https://img.shields.io/twitter/follow/tarikkamat?logo=twitter&style=for-the-badge" alt="tarikkamat" /></a> </p>
 
-- 🔭 I’m currently working on [klinikasistanim.com](#)
-
 - 🌱 I’m currently learning **React Native, Swift**
 
 - 📝 I regularly write articles on [https://tarikkamat.com](https://tarikkamat.com)
