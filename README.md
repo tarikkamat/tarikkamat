@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://tarikkamat.com/cv](https://tarikkamat.com/cv)
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
