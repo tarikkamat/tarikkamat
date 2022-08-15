@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikkamat&label=Profile%20views&color=0e75b6&style=flat" alt="tarikkamat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikkamat" alt="tarikkamat" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tarikkamat" target="blank"><img src="https://img.shields.io/twitter/follow/tarikkamat?logo=twitter&style=for-the-badge" alt="tarikkamat" /></a> </p>
 
 - 🔭 I’m currently working on [klinikasistanim.com](#)
@@ -28,7 +26,7 @@
 <a href="https://twitter.com/tarikkamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarikkamat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarikkamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarikkamat" height="30" width="40" /></a>
 <a href="https://fb.com/tarikkamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarikkamat" height="30" width="40" /></a>
-<a href="/https://tarikkamat.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tarikkamat.com/" height="30" width="40" /></a>
+<a href="/https://tarikkamat.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tarikkamat.com/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
