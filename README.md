@@ -8,25 +8,22 @@
 <a href="https://linkedin.com/in/tarikkamat" target="blank"><img src="https://img.shields.io/twitter/follow/tarikkamat?logo=linkedin&style=for-the-badge" alt="tarikkamat" /></a> 
 </p>
 
-- 👨‍💻 I’m currently working at [Entegra](http://entegrabilisim.com)
+- 👨‍💻 I’m currently working at [iyzico](http://iyzico.com)
 
-- 🌱 I’m currently learning **Swift and Java**
+- 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [https://tarikkamat.com](https://tarikkamat.com)
 
-- 💬 Ask me about **Php, Csharp, Java and, Swift**
+- 💬 Ask me about **Php, Csharp, Java**
 
-- 📫 How to reach me **contact@tarikkamat.com**
+- 📫 How to reach me **tarikkamat2@gmail.com**
 
-- 📄 Know about my experiences [https://cv.tarikkamat.com](https://cv.tarikkamat.com)
+- 📄 Know about my experiences [https://tarikkamat.com](https://tarikkamat.com)
 <br />
 <details>
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-</a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> 
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
